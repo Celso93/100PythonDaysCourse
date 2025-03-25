@@ -12,3 +12,7 @@
 
 # Nested if/else
 # if inside of a block other if
+
+# and : execute if both are true
+# or: only false with both are false
+# not: change the boolean
