@@ -26,3 +26,10 @@ It should randomly print "Heads" or "Tails" everytime it is run.
 
 coin = random.sample(["Heads", "Tails"], k=1)
 print(coin)
+
+
+# Data
+# List
+# some times the order is important like List many piece of releated data.
+# https://docs.python.org/3/tutorial/datastructures.html
+
